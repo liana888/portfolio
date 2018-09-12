@@ -1,0 +1,4 @@
+main.controller('FooterController', function(){
+
+});
+
